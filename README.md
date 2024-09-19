@@ -23,5 +23,5 @@ Project Details
 |4|CIFAR100_TransferLearning|Transfer Learning : ConvNeXtSmall with Imagenet weights + 512 FC layers (ReLU) + 100 FC layers + LR=0.001|11.95|
 |5|CIFAR100_FineTuning|Fine Tuning : ConvNeXtSmall with Imagenet weights + 512 FC layers (ReLU) + 100 FC layers + LR=0.00001|36.13|
 
-* Conclusion : Using Pre-Trained CNN model method gave the best accuracy for classification.
+* Conclusion : Using Pre-Trained CNN model (ConvNeXtSmall) method gave the best accuracy for classification.
 
