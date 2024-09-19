@@ -1,0 +1,6 @@
+Experiment No.,Experiment Directory,Experiment Title,Accuracy
+1,CIFAR100_SimpleCNN,Simple CNN : Conv2D filters (3x3)(ReLU) + Max Pooling(2x2) + 64 FC layers (ReLU) + 100 FC layers,37.08
+2,CIFAR100_CNNfromScratch,CNN From Scratch : Conv2D filters (3x3)(eLU) + Max Pooling(2x2) + 1024 FC layers (eLU) + 512 FC layers (eLU)) + 100 FC layers,42.43
+3,CIFAR100_PretrainedCNN,Pre-Trained CNN : ConvNeXtSmall with Imagenet weights + 64 FC layers (ReLU) + 100 FC layers,47.5
+4,CIFAR100_TransferLearning,Transfer Learning : ConvNeXtSmall with Imagenet weights + 512 FC layers (ReLU) + 100 FC layers + LR=0.001,11.95
+5,CIFAR100_FineTuning,Fine Tuning : ConvNeXtSmall with Imagenet weights + 512 FC layers (ReLU) + 100 FC layers + LR=0.00001,36.13
