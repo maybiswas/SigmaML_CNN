@@ -14,6 +14,7 @@ Project Details
 * Main Notebook : ![CNN_CIFAR100.ipynb](https://github.com/maybiswas/SigmaML_CNN/blob/main/CNN_CIFAR100.ipynb)
 
 * Output Results : ![Results Table](https://github.com/maybiswas/SigmaML_CNN/blob/main/output/CIFAR100_performance_report.csv)
+  
 |Experiment No.|Experiment Directory|Experiment Title|Accuracy%|
 |---|---|---|---|
 |1|CIFAR100_SimpleCNN|Simple CNN : Conv2D filters (3x3)(ReLU) + Max Pooling(2x2) + 64 FC layers (ReLU) + 100 FC layers|37.08|
