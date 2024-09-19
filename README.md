@@ -1,4 +1,4 @@
-SigmaML Quiz 4 : OpenCV practice with Portrait lady
+SigmaML Quiz 4 : CNN practice with CIFAR 100
 ===================================================
 
 Project Details
@@ -6,10 +6,7 @@ Project Details
 
 * Training data : https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar100/load_data
 
-* Problem Statement : To Build a CNN for classification on the Cifar-100 dataset & perform using the following methods:
-*     Building from Scratch
-*     Using a Pre-existing network
-*     Transfer Learning + Fine Tuning
+* Problem Statement : To Build a CNN for classification on the Cifar-100 dataset & perform using the following methods: Building from Scratch, Using a Pre-existing network & Transfer Learning + Fine Tuning.
 
 * Github Repository : https://github.com/maybiswas/SigmaML_CNN
 * Shared GDrive : https://drive.google.com/drive/folders/1DAcTNhotpDdtz9vV9pmmjZzcDoKhfAP8?usp=sharing
